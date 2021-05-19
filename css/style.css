@@ -1,0 +1,94 @@
+#wrapper{background-color: #64cd05; width: 1200px; min-height: 700px; margin: 0 auto}
+#wrapper img{margin: 0px auto; display: block; padding-top: 10px}
+#box_but1{float: left; margin-top: 52px; margin-left: 10px;}
+#but1{ background-color:  #64cd05;  background-image: url(../images/ARO.png); width:43px; height:43px; border: 0px; border-radius: 50%;}
+#but1:hover{box-shadow: 4px 3px 6px #585656}
+
+#main_but{background-color: #4c9b04; border: 8px solid black; border-radius:43.5px 15px 15px 43.5px; width: 450px; height: 90px; margin-top: 30px;float: left; margin-left: 5px;
+
+    box-shadow: inset 6px 6px 6px rgba(255, 255, 255, 75%), inset -3px -6px 6px rgba(0, 0, 0, 61%);
+}
+#main_but:hover{
+        box-shadow: inset 2px 2px 6px rgba(255, 255, 255, 75%), inset 1px 1px 6px rgba(0, 0, 0, 61%);
+    background-color: #78d524;
+
+}
+#main_but a{text-decoration: none; color: black; font-size: 50pt; font-family: Agency FB; font-weight: bold; line-height: 45px;}
+
+#box_but2{float: left; padding: 52px 10px;}
+#but2{ background-image: url(../images/BOX.png); width:36px; height:35px;border: 0px ; }
+#but2:hover{box-shadow:  4px 3px 6px #585656}
+
+
+#progress{width:1149px; height: 168px; background-image: url(../images/data_14.png); margin-left: 30px; margin-top: 90px}
+#prog_gray{background-color: white; width:1004px; height: 44px; float: left; margin-top: 5px; margin-left: 30px; border-radius: 15px}
+#prog_green{background-color: #07f713; width:50%; height: 44px; float: left;border-radius: 15px}
+
+
+#progress p{font-family: Agency FB; font-weight: bold; font-size: 25pt; float:left;   }
+
+#prog_green p{text-align: center;line-height: 15px; width:1004px;font-family: Agency FB; font-weight: bold; font-size: 25pt; margin-top: 15px;}
+#p1{margin-left: -500px; margin-top: 50px;}
+#p2{margin-left: -120px; margin-top: 50px;}
+#p3{margin-left: -25px; margin-top: 50px;}
+#p4{margin-left: 15px;}
+
+#abouto button{background-image: url(../images/but3.png);width: 155px; height: 48px; border: 0px; border-radius: 15px;font-family: Agency FB; font-weight: bold; font-size: 25pt; margin:8px 40px; }
+
+#abouto button:hover{font-size: 30pt;line-height: 48px;background-image: url(../images/but-3.png);c}
+
+#box1{width:1136px; min-height:197px; background-color:#4c9b04; border: 8px solid black; border-radius: 15px; margin-left: 20px;}
+
+#box1 p{font-family: Agency FB; font-weight: bold; font-size: 25pt; text-align: justify; margin: 10px}
+
+#video_unit{margin-top: 26px}
+#video_progress{width:1136px; height: 400px; background-color:#8af827; border: 8px solid black; border-radius: 15px; margin-left: 20px;}
+
+#counting{width:46px; height: 43px;  border: 8px solid black; border-radius: 20px; float: left; margin:170px 6px; }
+#counting p{font-family: Agency FB; font-weight: bold; font-size: 30pt;text-align: center; line-height: 43px;}
+
+video{width:453px; height: 347px; border-radius: 15px;margin:25px 0px; float: left}
+
+iframe{width:453px; height: 347px; border-radius: 15px;margin:25px 0px; float: left}
+
+#tit_vid{float: left; margin-top: 25px}
+#but_vid{float: left; margin-left: 21px;margin-top: -30px}
+#but_vid button{margin-top: 12px}
+
+#buttny{margin-left: 70px; height: 72px; min-width: 300px; font-family: Agency FB; font-weight: bold; font-size: 25pt; color: #fc9a04; border-radius: 36px; border: 0px; background-color: #92278f;
+    box-shadow: inset 6px 6px 6px rgba(255, 255, 255, 75%), inset -3px -6px 6px rgba(0, 0, 0, 61%);
+}
+#buttny:hover{
+        box-shadow: inset 2px 2px 6px rgba(255, 255, 255, 75%), inset 1px 1px 6px rgba(0, 0, 0, 61%);
+}
+#prog_wight{background-color: white; width:547px; height: 40px; float: left; margin-top: 5px; margin-left: 30px; border-radius: 15px; margin: 46px 0px 16px 35px;}
+#prog_burble{background-color: #a767a6; width:50%; height: 40px; float: left;border-radius: 15px}
+
+#prog_burble p{text-align: center;line-height: 15px; width:547px;font-family: Agency FB; font-weight: bold; font-size: 25pt; margin-top: 15px;}
+
+#prog_vido p:not(.nb){font-family: Agency FB; font-weight: bold; font-size: 25pt; line-height: 12px; margin-left: 144px}
+
+#butx2{width: 86px; height: 45px; background-color: #ed1c24; border: 0px; border-radius: 15px
+;box-shadow: inset 4px 4px 5px rgba(255,255,255,75%), inset -5px -3px 5px rgba(0,0,0,75%)}
+#butx1{width: 86px; height: 45px; background-color:#00a99d;border: 0px; border-radius: 15px
+;box-shadow: inset 4px 4px 5px rgba(255,255,255,75%), inset -5px -3px 5px rgba(0,0,0,75%)
+}
+
+#butx2:hover{width: 93px; height: 48px;
+box-shadow: 3px 4px 6px rgba(0,0,0,75%);
+}
+
+#butx1:hover{width: 93px; height: 48px;
+box-shadow: 3px 4px 6px rgba(0,0,0,75%);
+}
+
+#box2{min-height:420px;width:1136px; background-color:#4c9b04; border: 8px solid black; border-radius: 15px; margin-left: 20px;}
+
+#box2 p{font-family: Agency FB; font-weight: bold; font-size: 25pt;  margin: 10px}
+#about_data{float: right;margin-top: 24px}
+#views{float: left; margin: 77px 20px 18px 40px; line-height: 15px}
+#about_vid{border: 8px solid black; border-radius: 15px; width: 809px; min-height:300px; margin-right: 10px}
+#about_vid p{text-align: justify;}
+
+#footer{background-color:#acfa65; border-top:3px solid black; margin-top: 21px}
+#footer p{font-size: 10pt; font-family: arila;line-height: 18px; text-align: center}
